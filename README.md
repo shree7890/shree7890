@@ -8,7 +8,19 @@ I'm a Web Developer. I like to learn and share my knowledge. I pride myself on d
 
 Skills & Experiance:
 
-✔HTML/CSS/BOOTSTRAP/TAILWIND CSS/JS/REACT JS/EXPRESS JS/NODE JS/MONGODB/FIREBASE
+✔ HTML
+✔ CSS
+✔ BOOTSTRAP
+✔ TAILWIND CSS
+✔ JS
+✔ REACT JS
+✔ REACT ROUTER
+✔ EXPRESS JS
+✔ NODE JS
+✔ MONGODB
+✔ FIREBASE
+✔ PSD TO HTML
+✔ FIGMA
 
 - 🌱 I’m currently learning JAVASCRIPT 
 
