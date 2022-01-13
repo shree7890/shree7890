@@ -9,11 +9,7 @@ Skills & Experiance: HTML/CSS/BOOTSTRAP/TAILWIND CSS/JS/REACT JS/EXPRESS JS/NODE
 - 🌱 I’m currently learning JAVASCRIPT 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shree7890) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shreekanta ) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DashBabu831)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shree7890)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shreekanta )   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DashBabu831)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shree7890)](https://github.com/anuraghazra/github-readme-stats)
 
