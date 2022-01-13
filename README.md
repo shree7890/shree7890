@@ -6,7 +6,9 @@ Hi, I'm Shreekanta Dash.👏
 
 I'm a Web Developer. I like to learn and share my knowledge. I pride myself on doing quality work and maintain excellent communication.
 
-Skills & Experiance: HTML/CSS/BOOTSTRAP/TAILWIND CSS/JS/REACT JS/EXPRESS JS/NODE JS/MONGODB/FIREBASE
+Skills & Experiance:
+
+✔HTML/CSS/BOOTSTRAP/TAILWIND CSS/JS/REACT JS/EXPRESS JS/NODE JS/MONGODB/FIREBASE
 
 - 🌱 I’m currently learning JAVASCRIPT 
 
