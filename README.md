@@ -1,9 +1,11 @@
-Hi, I'm Shreekanta Dash
+### Hi there 👋, Hi, I'm Shreekanta Dash
 #### Mern Stack Web Developer And Web Designer. I like to write code.
+![Mern Stack Web Developer And Web Designer. I like to write code.](https://ibb.co/gmnnCH2)
+
 
 I'm a Web Developer. I like to learn and share my knowledge. I pride myself on doing quality work and maintain excellent communication.
-https://ibb.co/gmnnCH2
-Skills & Experiance: HTML/CSS/BOOTSTRAP/TAILWIND CSS/JS/REACT JS/EXPRESS JS/NODE JS/ MONGODB/FIREBASE/REACT ROUTER
+
+Skills: HTML/CSS/BOOTSTRAP/TAILWIND CSS/JS/REACT JS/EXPRESS JS/NODE JS/ MONGODB
 
 - 🌱 I’m currently learning JAVASCRIPT 
 
