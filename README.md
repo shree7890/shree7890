@@ -1,6 +1,5 @@
-Hi, I'm Shreekanta Dash
+Hi, I'm Shreekanta Dash.
 #### Mern Stack Web Developer And Web Designer. I like to write code.
-![Mern Stack Web Developer And Web Designer. I like to write code.]
 
 
 I'm a Web Developer. I like to learn and share my knowledge. I pride myself on doing quality work and maintain excellent communication.
