@@ -4,7 +4,7 @@ Hi, I'm Shreekanta Dash.👏
 
 ![Profile views](https://gpvc.arturio.dev/shree7890) 
 
-I'm a Web Developer. I like to learn and share my knowledge. I pride myself on doing quality work and maintain excellent communication.
+<!-- I'm a Web Developer. I like to learn and share my knowledge. I pride myself on doing quality work and maintain excellent communication. -->
 
 🤹‍♂️ Skills & Experiance:
 
